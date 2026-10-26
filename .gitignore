@@ -1,0 +1,9 @@
+*.log
+__pycache__/
+aligned/
+*.bin
+*.pt
+*.safetensors
+*.csv
+*.tsv
+*.txt
